@@ -1,2 +1,2 @@
-# example-repository
+# Example Repository
 This is just an example repository.
